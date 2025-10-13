@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 43fb152d5f1cbd745b53901396966a1c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerInput: {fileID: 11400000, guid: e2dfa22de8dbba340b7014f8cd1f1211, type: 2}
+  - _throttleButton: {instanceID: 0}
+  - _reverseButton: {instanceID: 0}
+  - _turnLeftButton: {instanceID: 0}
+  - _turnRightButton: {instanceID: 0}
+  - _handbrakeButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

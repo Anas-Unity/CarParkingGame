@@ -1,0 +1,11 @@
+{
+    "asset": "78bcd7d9d46432541a5d7ded58c514d4",
+    "fileName": "0198d13e-0f3f-76ca-a3c1-b461058681ab_Preview.png",
+    "prompt": "a beautiful ground of green grass tiles",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 865828630,
+    "w3CTraceId": "cb9e2e568de57b05d94f6083ca3caccb",
+    "refinementMode": "Generation"
+}
